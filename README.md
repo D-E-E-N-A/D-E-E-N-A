@@ -1,7 +1,7 @@
 - 👋 Hi, I’m #DEENA
-- 👀 I’m interested in Web Applications & A.I
-- 🌱 I’m currently learning on how to make websites ..!!
-- 💞️ I’m looking to collaborate on Web A.I Community
+- 👀 I’m interested in Android Applications & A.I
+- 🌱 I’m currently Playing with my Android ..!!
+- 💞️ I’m looking to collaborate on Android A.I Community
 - 📫 How to reach me ~todeena@outlook.com
 
 <!---
